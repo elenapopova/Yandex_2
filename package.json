@@ -1,0 +1,18 @@
+{
+  "name": "obfuscator",
+  "version": "1.0.0",
+  "main": "obfuscator.js",
+  "repository": {
+    "type": "git",
+    "url":  "https://github.com/"
+  },
+  "scripts": {
+    "test": "./node_modules/.bin/mocha --reporter spec"
+  },
+  "author": "Elena Popova",
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.5.3"
+  }
+}
